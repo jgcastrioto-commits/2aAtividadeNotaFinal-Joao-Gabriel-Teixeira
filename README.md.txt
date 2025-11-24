@@ -1,3 +1,6 @@
+Aluno - Joao-Gabriel-Teixeira
+matricula - 202502518269
+
 README.md
 QUESTAO-1/
 ├── index.php
